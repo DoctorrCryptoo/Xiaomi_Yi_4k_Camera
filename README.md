@@ -6,7 +6,7 @@ In this repo there is:
 
 [4k](4k/) Stuff for the yi 4k.
 
-[4k+](4k+/) Stuff for the yi 4k+.
+[4k+](4k+/) Stuff for the yi 4k+....
 
 ### For both the 4k and 4k+
 
